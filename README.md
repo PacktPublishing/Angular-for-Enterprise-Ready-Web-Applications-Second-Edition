@@ -1,13 +1,13 @@
 # Angular for Enterprise-Ready Web Applications, Second-Edition
-> Published by Packt
+> May 2020, Published by Packt
 
 **Table of Contents**
 
 - [Web Development Environment Setup Scripts](#web-development-environment-setup-scripts)
-- [LocalCast Weather](#localcast-weather)
-- [LemonMart](#lemonmart)
-- [LemonMart Server](#lemonmart-server)
-- [Got Feedback or Issues?](#got-feedback-or-issues?)
+- [LocalCast Weather](#localcast-weather----)
+- [LemonMart](#lemonmart----)
+- [LemonMart Server](#lemonmart-server----)
+- [Got Feedback or Issues?](#got-feedback-or-issues)
 
 This book is supported by a network of 20 OSS projects, tools, and libraries created for the book, including MEAN stack examples and blue/green cloud deployments, as shown below:
 ![image](https://user-images.githubusercontent.com/822159/82948621-183c9b00-9f70-11ea-9e66-25c46b30bd86.png)
