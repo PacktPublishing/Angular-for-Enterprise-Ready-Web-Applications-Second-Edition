@@ -16,9 +16,9 @@ The beginning of each chapter contains detailed instructions on how to access ch
 
 # Web Development Environment Setup Scripts
 
-Source Repo: https://github.com/duluca/web-dev-environment-setup
+Scripts for Windows 10 and macOS X to install web development tools
 
-> Scripts for Windows 10 and macOS X to install web development tools
+Source Repo: https://github.com/duluca/web-dev-environment-setup
 
 __Absolutely NO WARRANTIES or GUARANTEES are provided.__
 

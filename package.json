@@ -1,0 +1,21 @@
+{
+  "name": "Angular-for-Enterprise-Ready-Web-Applications-Second-Edition",
+  "version": "1.0.0",
+  "description": "> May 2020, Published by Packt",
+  "main": "index.js",
+  "scripts": {
+    "modules:init": "git submodule update --init --recursive",
+    "modules:update": "git submodule update --recursive --remote"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PacktPublishing/Angular-for-Enterprise-Ready-Web-Applications-Second-Edition.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PacktPublishing/Angular-for-Enterprise-Ready-Web-Applications-Second-Edition/issues"
+  },
+  "homepage": "https://github.com/PacktPublishing/Angular-for-Enterprise-Ready-Web-Applications-Second-Edition#readme"
+}
