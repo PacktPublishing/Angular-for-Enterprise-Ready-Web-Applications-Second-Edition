@@ -1,0 +1,12 @@
+[submodule "localcast-weather"]
+	path = localcast-weather
+	url = https://github.com/duluca/local-weather-app
+[submodule "lemon-mart"]
+	path = lemon-mart
+	url = https://github.com/duluca/lemon-mart
+[submodule "lemon-mart-server"]
+	path = lemon-mart-server
+	url = https://github.com/duluca/lemon-mart-server
+[submodule "web-dev-environment-setup"]
+	path = web-dev-environment-setup
+	url = https://github.com/duluca/web-dev-environment-setup
